@@ -1,5 +1,6 @@
-Example use:
+#Example use:
 
+#import class
 from hydra import hydra
 
 #cachetime optional
